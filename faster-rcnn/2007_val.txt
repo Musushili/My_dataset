@@ -1,36 +1,346 @@
-/root/My_dataset/retinanet/VOCdevkit/VOC2007/JPEGImages/2.jpg 167,53,609,770,0
-/root/My_dataset/retinanet/VOCdevkit/VOC2007/JPEGImages/5.jpg 52,13,383,640,0
-/root/My_dataset/retinanet/VOCdevkit/VOC2007/JPEGImages/19.jpg 69,2,538,348,0
-/root/My_dataset/retinanet/VOCdevkit/VOC2007/JPEGImages/27.jpg 63,23,616,453,0
-/root/My_dataset/retinanet/VOCdevkit/VOC2007/JPEGImages/51.jpg 43,35,508,376,0
-/root/My_dataset/retinanet/VOCdevkit/VOC2007/JPEGImages/59.jpg 119,10,628,451,0
-/root/My_dataset/retinanet/VOCdevkit/VOC2007/JPEGImages/105.jpg 1,8,298,213,0
-/root/My_dataset/retinanet/VOCdevkit/VOC2007/JPEGImages/109.jpg 20,64,290,296,0
-/root/My_dataset/retinanet/VOCdevkit/VOC2007/JPEGImages/122.jpg 4,1,295,658,0 373,66,500,497,0
-/root/My_dataset/retinanet/VOCdevkit/VOC2007/JPEGImages/124.jpg 96,33,215,228,0
-/root/My_dataset/retinanet/VOCdevkit/VOC2007/JPEGImages/137.jpg 42,517,842,1070,0
-/root/My_dataset/retinanet/VOCdevkit/VOC2007/JPEGImages/148.jpg 11,50,246,208,0
-/root/My_dataset/retinanet/VOCdevkit/VOC2007/JPEGImages/183.jpg 16,154,782,668,0
-/root/My_dataset/retinanet/VOCdevkit/VOC2007/JPEGImages/190.jpg 5,149,365,525,0
-/root/My_dataset/retinanet/VOCdevkit/VOC2007/JPEGImages/192.jpg 1,12,829,553,0
-/root/My_dataset/retinanet/VOCdevkit/VOC2007/JPEGImages/193.jpg 27,16,131,102,0 24,139,129,224,0 20,392,131,467,0 25,494,131,585,0 24,267,131,350,0
-/root/My_dataset/retinanet/VOCdevkit/VOC2007/JPEGImages/199.jpg 1,55,749,959,0
-/root/My_dataset/retinanet/VOCdevkit/VOC2007/JPEGImages/205.jpg 12,10,302,288,0
-/root/My_dataset/retinanet/VOCdevkit/VOC2007/JPEGImages/213.jpg 69,36,188,145,0
-/root/My_dataset/retinanet/VOCdevkit/VOC2007/JPEGImages/240.jpg 82,187,706,800,0
-/root/My_dataset/retinanet/VOCdevkit/VOC2007/JPEGImages/283.jpg 35,148,574,762,0
-/root/My_dataset/retinanet/VOCdevkit/VOC2007/JPEGImages/285.jpg 8,11,640,408,0
-/root/My_dataset/retinanet/VOCdevkit/VOC2007/JPEGImages/298.jpg 56,79,252,350,0
-/root/My_dataset/retinanet/VOCdevkit/VOC2007/JPEGImages/303.jpg 44,88,718,514,0
-/root/My_dataset/retinanet/VOCdevkit/VOC2007/JPEGImages/326.jpg 110,40,390,568,0
-/root/My_dataset/retinanet/VOCdevkit/VOC2007/JPEGImages/360.jpg 1,6,382,666,0
-/root/My_dataset/retinanet/VOCdevkit/VOC2007/JPEGImages/381.jpg 12,15,636,417,0 99,2,640,307,0
-/root/My_dataset/retinanet/VOCdevkit/VOC2007/JPEGImages/383.jpg 189,40,628,429,0
-/root/My_dataset/retinanet/VOCdevkit/VOC2007/JPEGImages/387.jpg 30,13,358,452,0
-/root/My_dataset/retinanet/VOCdevkit/VOC2007/JPEGImages/393.jpg 101,5,659,509,0
-/root/My_dataset/retinanet/VOCdevkit/VOC2007/JPEGImages/415.jpg 103,27,855,909,0
-/root/My_dataset/retinanet/VOCdevkit/VOC2007/JPEGImages/435.jpg 111,77,686,558,0
-/root/My_dataset/retinanet/VOCdevkit/VOC2007/JPEGImages/450.jpg 524,535,1880,2104,0
-/root/My_dataset/retinanet/VOCdevkit/VOC2007/JPEGImages/484.jpg 22,91,746,995,0
-/root/My_dataset/retinanet/VOCdevkit/VOC2007/JPEGImages/494.jpg 14,1,458,662,0
-/root/My_dataset/retinanet/VOCdevkit/VOC2007/JPEGImages/503.jpg 13,1,544,358,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1004).jpg
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1006).jpg
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1007).jpg
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1011).jpg
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1019).jpg
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1020).jpg
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(104).jpg 770,529,1655,1026,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1050).jpg
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1066).jpg
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1070).jpg
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1076).jpg
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1079).jpg
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1080).jpg
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1082).jpg
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1090).jpg
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1097).jpg
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1109).jpg
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1111).jpg
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1115).jpg
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1134).jpg
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1147).jpg
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1148).jpg
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1174).jpg
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1183).jpg
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1210).jpg
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1211).jpg
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1217).jpg
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1230).jpg
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1237).jpg
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1247).jpg
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1249).jpg
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1257).jpg
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1259).jpg
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1280).jpg
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1283).jpg
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1296).jpg
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(130).jpg 670,570,1594,1080,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1364).jpg
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1377).jpg
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1379).jpg
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1390).jpg
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1395).jpg
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1405).jpg
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1410).jpg
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1419).jpg
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1420).jpg
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1423).jpg
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1435).jpg
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1453).jpg
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1463).jpg
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1472).jpg
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1479).jpg
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1489).jpg
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1492).jpg
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1506).jpg
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(151).jpg 248,459,794,1080,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1512).jpg
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1572).jpg
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1573).jpg
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(158).jpg 290,526,731,1076,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1598).jpg
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1600).jpg
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1618).jpg
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1625).jpg
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1627).jpg
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1639).jpg
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(164).jpg 615,418,1381,1074,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1679).jpg
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1693).jpg
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1698).jpg
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1713).jpg
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1715).jpg
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1719).jpg
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1723).jpg
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1731).jpg
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1737).jpg
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1738).jpg
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1741).jpg
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1766).jpg 278,209,506,575,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1769).jpg 299,228,473,563,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1780).jpg 285,164,642,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(179).jpg 81,102,162,287,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1798).jpg 286,147,543,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1804).jpg 331,231,542,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(184).jpg 463,122,998,1080,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1865).jpg 365,169,486,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1887).jpg 269,264,525,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1902).jpg 251,321,372,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1912).jpg 208,245,350,571,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1913).jpg 219,190,427,573,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1920).jpg 192,251,559,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1932).jpg 158,268,492,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1935).jpg 121,269,469,574,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(194).jpg 840,342,1338,1080,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1944).jpg 256,176,596,568,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(195).jpg 577,478,1029,1078,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1960).jpg 250,272,608,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1968).jpg 277,265,568,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1977).jpg 316,259,552,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(198).jpg 482,883,752,1080,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(1981).jpg 347,265,459,573,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2005).jpg 215,256,495,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2007).jpg 227,328,413,575,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2015).jpg 248,214,477,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2019).jpg 290,288,516,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2030).jpg 262,241,420,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2033).jpg 223,188,617,574,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2051).jpg 249,62,428,565,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2055).jpg 254,164,518,575,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2059).jpg 714,331,1360,1080,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2074).jpg 140,208,391,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2079).jpg 168,7,345,430,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2081).jpg 206,107,428,530,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2086).jpg 131,101,451,574,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2087).jpg 149,200,381,572,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2089).jpg 177,143,414,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(210).jpg 721,669,1430,1080,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2125).jpg 302,286,482,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2139).jpg 251,287,455,572,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2146).jpg 264,286,508,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2169).jpg 880,451,1402,1080,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2171).jpg 300,231,487,574,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2191).jpg 332,200,495,571,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2197).jpg 314,231,577,573,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2198).jpg 255,210,509,575,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2203).jpg 302,216,584,570,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2229).jpg 233,193,473,575,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2234).jpg 286,241,423,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2267).jpg 333,332,620,576,0 239,2,418,143,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2271).jpg 333,272,621,573,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2276).jpg 264,146,633,573,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2279).jpg 297,255,579,572,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(229).jpg 237,163,444,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(230).jpg 508,663,727,1068,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2300).jpg 279,309,599,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2305).jpg 341,289,578,574,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2308).jpg 289,263,466,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2311).jpg 286,241,518,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2316).jpg 243,64,404,435,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2317).jpg 280,222,619,572,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(232).jpg 548,391,1154,1080,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2338).jpg 356,140,620,573,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2343).jpg 316,214,630,574,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2344).jpg 308,186,649,575,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2375).jpg 340,207,586,573,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2377).jpg 308,34,484,563,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2388).jpg 308,160,611,574,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(239).jpg 219,213,405,573,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2392).jpg 371,241,650,574,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2399).jpg 335,241,595,572,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2402).jpg 322,213,520,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2419).jpg 338,249,617,572,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(242).jpg 218,262,365,575,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2440).jpg 222,225,422,470,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2475).jpg 214,233,439,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2480).jpg 320,240,579,572,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2481).jpg 268,243,487,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2503).jpg 235,276,431,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2504).jpg 251,249,439,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2505).jpg 325,218,486,573,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2515).jpg 231,278,426,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2536).jpg 312,129,415,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2540).jpg 299,263,573,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2543).jpg 314,300,605,575,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2565).jpg 215,284,433,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2571).jpg 288,217,586,574,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2578).jpg 252,110,441,549,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(258).jpg 588,434,1340,1080,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2590).jpg 221,71,427,568,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2603).jpg 312,290,449,574,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2608).jpg 301,248,533,574,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2618).jpg 193,269,429,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2624).jpg 202,236,437,575,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2634).jpg 264,154,456,550,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2635).jpg 750,205,1199,1058,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2639).jpg 275,239,539,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2643).jpg 230,324,422,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2648).jpg 284,242,590,574,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(267).jpg 101,106,213,288,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2670).jpg 336,216,478,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2672).jpg 324,276,530,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2677).jpg 278,134,551,574,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2680).jpg 295,188,570,574,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2692).jpg 315,292,579,572,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2707).jpg 271,199,623,568,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(272).jpg 612,401,1299,1080,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2731).jpg 195,220,430,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2775).jpg 192,237,469,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2800).jpg 240,138,647,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2801).jpg 242,129,645,573,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2804).jpg 195,358,580,573,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2805).jpg 203,315,560,570,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2811).jpg 305,278,570,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2815).jpg 264,256,622,574,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2817).jpg 665,268,1115,968,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2823).jpg 312,233,636,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2824).jpg 267,256,591,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2828).jpg 872,576,1726,1075,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2835).jpg 261,234,439,575,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2841).jpg 310,235,608,569,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2846).jpg 270,296,422,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2860).jpg 251,169,515,574,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2875).jpg 221,333,599,574,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2884).jpg 239,285,460,575,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2885).jpg 262,226,634,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2893).jpg 268,289,680,570,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2916).jpg 76,122,247,276,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2933).jpg 73,95,246,286,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2948).jpg 65,79,249,285,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2972).jpg 63,89,211,264,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2985).jpg 57,106,245,257,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(2987).jpg 80,66,247,262,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(30).jpg 728,499,1636,984,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(3002).jpg 62,134,269,259,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(3007).jpg 259,86,424,538,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(3018).jpg 233,207,380,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(3021).jpg 843,92,1262,836,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(3035).jpg 182,294,379,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(3039).jpg 130,237,470,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(3092).jpg 141,245,411,567,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(3094).jpg 420,555,936,1068,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(3095).jpg 370,574,1146,1079,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(3097).jpg 46,141,403,518,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(3098).jpg 51,142,329,487,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(3106).jpg 146,85,372,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(3124).jpg 52,186,429,511,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(3125).jpg 249,51,350,574,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(3134).jpg 77,105,332,523,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(3143).jpg 150,91,364,573,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(3177).jpg 190,82,380,331,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(3180).jpg 57,161,305,413,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(3188).jpg 59,26,417,421,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(3206).jpg 118,69,356,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(3217).jpg 83,166,441,415,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(3224).jpg 35,108,175,286,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(3228).jpg 22,98,152,288,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(3260).jpg 90,66,167,228,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(3267).jpg 65,95,143,262,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(3284).jpg 29,114,173,278,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(3296).jpg 27,161,205,279,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(3301).jpg 78,92,194,288,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(3317).jpg 100,81,179,288,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(3322).jpg 53,102,149,274,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(3342).jpg 17,112,172,288,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(3343).jpg 20,165,99,288,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(3348).jpg 14,99,127,287,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(3358).jpg 57,106,158,282,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(3361).jpg 22,115,126,287,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(3380).jpg 38,106,132,288,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(34).jpg 636,422,1603,994,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(3434).jpg 101,79,174,286,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(3439).jpg 30,55,193,283,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(3449).jpg 33,93,155,282,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(346).jpg 892,497,1631,1077,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(3478).jpg 80,54,187,288,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(3515).jpg 13,181,80,286,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(3536).jpg 367,325,574,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(3542).jpg 1007,442,1674,1079,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(3545).jpg 294,232,615,572,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(3555).jpg 934,440,1583,1073,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(3557).jpg 321,255,576,571,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(3569).jpg 292,243,573,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(3572).jpg 333,266,519,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(3573).jpg 298,262,615,574,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(3577).jpg 215,279,586,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(3580).jpg 293,248,602,575,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(3589).jpg 284,247,467,575,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(3594).jpg 265,282,570,574,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(360).jpg 167,242,398,574,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(3602).jpg 204,247,417,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(3616).jpg 282,250,569,574,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(3633).jpg 240,258,530,574,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(3641).jpg 287,353,535,575,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(365).jpg 608,380,1165,1075,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(3686).jpg 394,263,557,575,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(3703).jpg 310,223,531,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(3709).jpg 334,202,534,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(371).jpg 714,429,1539,1076,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(3711).jpg 299,235,534,575,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(3741).jpg 224,230,532,571,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(3751).jpg 226,288,534,572,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(3768).jpg 290,216,439,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(3788).jpg 327,221,455,571,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(379).jpg 536,422,1231,1080,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(3798).jpg 215,210,392,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(3803).jpg 247,294,599,573,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(3825).jpg 875,493,1435,1080,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(3836).jpg 240,210,349,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(385).jpg 128,272,357,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(391).jpg 533,378,1379,1080,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(410).jpg 1198,527,1916,941,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(422).jpg 1031,472,1900,928,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(44).jpg 855,395,1155,1080,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(446).jpg 217,271,543,574,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(452).jpg 139,212,456,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(456).jpg 480,364,1465,1080,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(46).jpg 401,273,1351,1023,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(463).jpg 365,147,508,572,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(470).jpg 348,182,507,468,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(472).jpg 338,259,670,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(479).jpg 403,178,535,572,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(499).jpg 348,282,421,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(509).jpg 257,260,423,573,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(512).jpg 208,203,408,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(526).jpg 324,251,530,568,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(527).jpg 338,257,464,377,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(531).jpg 390,228,508,482,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(558).jpg 348,278,518,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(565).jpg 294,323,419,527,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(598).jpg 355,213,575,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(605).jpg 370,184,624,573,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(623).jpg 331,297,618,573,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(633).jpg 318,245,512,561,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(64).jpg 797,438,1667,1049,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(650).jpg 282,232,614,573,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(655).jpg 322,270,632,574,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(673).jpg 213,288,368,573,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(691).jpg 252,231,572,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(694).jpg 214,285,348,575,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(695).jpg 289,211,455,479,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(696).jpg 287,211,489,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(697).jpg 289,221,560,573,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(7).jpg 213,275,581,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(703).jpg 247,181,393,542,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(708).jpg 318,196,510,572,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(73).jpg 687,633,1399,981,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(739).jpg 128,82,226,287,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(743).jpg 133,38,259,287,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(744).jpg 202,20,261,120,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(771).jpg 312,1,473,383,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(777).jpg 96,266,368,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(779).jpg 92,287,493,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(785).jpg 135,265,475,575,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(793).jpg 87,203,193,288,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(808).jpg 65,84,162,288,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(815).jpg 21,149,214,283,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(843).jpg 8,112,128,288,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(863).jpg 23,87,148,284,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(89).jpg 131,127,296,252,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(92).jpg 341,81,965,755,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(93).jpg 807,485,1617,959,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(932).jpg 285,280,609,575,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(939).jpg 172,241,389,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(944).jpg 252,280,455,576,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(95).jpg 107,101,252,245,0
+/root/My_dataset/faster-rcnn/EVdevkit/VOC2007/JPEGImages/2020(977).jpg 180,259,576,574,0
