@@ -1,0 +1,36 @@
+/root/My_dataset/retinanet/VOCdevkit/VOC2007/JPEGImages/2.jpg 167,53,609,770,0
+/root/My_dataset/retinanet/VOCdevkit/VOC2007/JPEGImages/5.jpg 52,13,383,640,0
+/root/My_dataset/retinanet/VOCdevkit/VOC2007/JPEGImages/19.jpg 69,2,538,348,0
+/root/My_dataset/retinanet/VOCdevkit/VOC2007/JPEGImages/27.jpg 63,23,616,453,0
+/root/My_dataset/retinanet/VOCdevkit/VOC2007/JPEGImages/51.jpg 43,35,508,376,0
+/root/My_dataset/retinanet/VOCdevkit/VOC2007/JPEGImages/59.jpg 119,10,628,451,0
+/root/My_dataset/retinanet/VOCdevkit/VOC2007/JPEGImages/105.jpg 1,8,298,213,0
+/root/My_dataset/retinanet/VOCdevkit/VOC2007/JPEGImages/109.jpg 20,64,290,296,0
+/root/My_dataset/retinanet/VOCdevkit/VOC2007/JPEGImages/122.jpg 4,1,295,658,0 373,66,500,497,0
+/root/My_dataset/retinanet/VOCdevkit/VOC2007/JPEGImages/124.jpg 96,33,215,228,0
+/root/My_dataset/retinanet/VOCdevkit/VOC2007/JPEGImages/137.jpg 42,517,842,1070,0
+/root/My_dataset/retinanet/VOCdevkit/VOC2007/JPEGImages/148.jpg 11,50,246,208,0
+/root/My_dataset/retinanet/VOCdevkit/VOC2007/JPEGImages/183.jpg 16,154,782,668,0
+/root/My_dataset/retinanet/VOCdevkit/VOC2007/JPEGImages/190.jpg 5,149,365,525,0
+/root/My_dataset/retinanet/VOCdevkit/VOC2007/JPEGImages/192.jpg 1,12,829,553,0
+/root/My_dataset/retinanet/VOCdevkit/VOC2007/JPEGImages/193.jpg 27,16,131,102,0 24,139,129,224,0 20,392,131,467,0 25,494,131,585,0 24,267,131,350,0
+/root/My_dataset/retinanet/VOCdevkit/VOC2007/JPEGImages/199.jpg 1,55,749,959,0
+/root/My_dataset/retinanet/VOCdevkit/VOC2007/JPEGImages/205.jpg 12,10,302,288,0
+/root/My_dataset/retinanet/VOCdevkit/VOC2007/JPEGImages/213.jpg 69,36,188,145,0
+/root/My_dataset/retinanet/VOCdevkit/VOC2007/JPEGImages/240.jpg 82,187,706,800,0
+/root/My_dataset/retinanet/VOCdevkit/VOC2007/JPEGImages/283.jpg 35,148,574,762,0
+/root/My_dataset/retinanet/VOCdevkit/VOC2007/JPEGImages/285.jpg 8,11,640,408,0
+/root/My_dataset/retinanet/VOCdevkit/VOC2007/JPEGImages/298.jpg 56,79,252,350,0
+/root/My_dataset/retinanet/VOCdevkit/VOC2007/JPEGImages/303.jpg 44,88,718,514,0
+/root/My_dataset/retinanet/VOCdevkit/VOC2007/JPEGImages/326.jpg 110,40,390,568,0
+/root/My_dataset/retinanet/VOCdevkit/VOC2007/JPEGImages/360.jpg 1,6,382,666,0
+/root/My_dataset/retinanet/VOCdevkit/VOC2007/JPEGImages/381.jpg 12,15,636,417,0 99,2,640,307,0
+/root/My_dataset/retinanet/VOCdevkit/VOC2007/JPEGImages/383.jpg 189,40,628,429,0
+/root/My_dataset/retinanet/VOCdevkit/VOC2007/JPEGImages/387.jpg 30,13,358,452,0
+/root/My_dataset/retinanet/VOCdevkit/VOC2007/JPEGImages/393.jpg 101,5,659,509,0
+/root/My_dataset/retinanet/VOCdevkit/VOC2007/JPEGImages/415.jpg 103,27,855,909,0
+/root/My_dataset/retinanet/VOCdevkit/VOC2007/JPEGImages/435.jpg 111,77,686,558,0
+/root/My_dataset/retinanet/VOCdevkit/VOC2007/JPEGImages/450.jpg 524,535,1880,2104,0
+/root/My_dataset/retinanet/VOCdevkit/VOC2007/JPEGImages/484.jpg 22,91,746,995,0
+/root/My_dataset/retinanet/VOCdevkit/VOC2007/JPEGImages/494.jpg 14,1,458,662,0
+/root/My_dataset/retinanet/VOCdevkit/VOC2007/JPEGImages/503.jpg 13,1,544,358,0
